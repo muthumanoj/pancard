@@ -1,0 +1,190 @@
+.top {
+    background: linear-gradient(to bottom,
+        rgb(70, 68, 65)20%,
+        rgb(87, 85, 82)50%,
+        rgb(122, 121, 122)100%
+    );
+padding: 70px 200px;
+width: 600px;
+position: absolute;
+left: 225px;
+top: 3px;
+height: 100px;
+
+} 
+img {
+    border-radius: 50%;
+    width: 150px;
+    height 130px;
+    border:  2px dotted orange;
+    position: relative;
+    left: 220px;
+  bottom: 40px;
+    
+}
+.gap > table td {
+   position: absolute;
+   top: 190px;
+   right: 0px;
+   background-color: rgb(233, 227, 227);
+   width: 998px;
+   height: 25px;
+    
+}
+
+div {
+ display: flex;
+ flex-direction: column;
+
+}
+hr {
+    position: relative;
+    width: 1000px;
+   right: 35px;
+    top: 255px;
+}
+
+span {
+    background-color: orange;
+    padding: 15px 15px;
+   
+    position: absolute;
+    right: 365px;
+    top: 160px;
+    border-radius: 7px;
+
+
+}
+pre {
+    position: absolute;
+    left: 185px;
+    top: 230px;
+}
+
+.prfile {
+  width: 450px;
+  position: absolute;
+  left: 252px;
+  top: 315px;
+  border-right: 2px solid gray;
+  padding-right: 30px;
+
+  
+ height: 900px;
+ 
+}
+#pro {
+
+    width: 370px;
+  position: absolute;
+  left: 250px;
+  top: 260px;
+}
+
+.skills {
+    position: absolute;
+    width: 370px;
+    left: 250px;
+    top: 365px;
+    
+ 
+    
+}
+
+.techski {
+    
+        width: 630px;
+        position: absolute;
+        top: 395px;
+        left:360px;
+        
+}
+
+.tech {
+    width: 420px;
+    position: absolute;
+    top: 445px;
+    left:255px;
+    
+   
+ 
+ 
+}
+
+.addski {
+    width: 630px;
+        position: absolute;
+        top: 600px;
+        left:360px;
+        
+}
+.add {
+    width: 423px;
+        position: absolute;
+        top: 670px;
+        left:255px;
+        
+}
+.work{
+    width: 440px;
+    position: absolute;
+    top: 800px;
+    left: 250px;
+}
+
+.wx {
+    width: 395px;
+    position: absolute;
+    top: 260px;
+    right: 350px;
+    
+    
+}
+
+.edu {
+    width: 400px;
+    position: absolute;
+    top: 570px;
+    right: 350px;
+}
+
+h3 {
+    color: gray;
+    font-size: 23px;
+}
+li {
+    text-align: justify;
+}
+p {
+    text-align: justify;
+}
+
+input[type="range"]{
+    height:5px;
+    margin: 10px 0;
+    width: 100%;
+    -webkit-appearance: none;
+}
+
+input[type="range"]::-webkit-slider-runnable-track{
+    height: 5px;
+    width:50%;
+    cursor: pointer;
+    background: orange;
+    background:linear-gradient
+    (90deg rgba(248, 190, 39, 1)50%,  rgb(206, 157, 65)100%);
+    border-radius: 8px;
+   
+}
+
+input[type="range"]::-webkit-slider-thumb{
+    box-shadow: 1px 1px 1px #000000;
+    height: 8px;
+    width: 8px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    -webkit-appearance: none;
+    background-color: white;
+    cursor: pointer;
+    margin-top: -1px;
+}
